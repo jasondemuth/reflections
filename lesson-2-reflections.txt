@@ -15,3 +15,6 @@ git branch - view branches
 git branch name       -- creates new branch with that name
 
 git checkout branchname     - to switch to branch
+
+
+git log --graph --oneline branch branch       -- this will give a log and show what branches are affected.
