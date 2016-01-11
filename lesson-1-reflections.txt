@@ -1,0 +1,11 @@
+Version control will help me work smarter
+
+by looking at two versions, can determine what changed and make corrections/reversions
+
+by having access to old versions and changes you can see progress, and methods used to move forward
+
+manual commits are good as long as you think about them and are disciplined to do it.
+
+git allowing to save multiple files at a single commit is special and necessary
+
+git log is great - remember to hit enter to scroll down and q to exit
