@@ -3,3 +3,15 @@ when you initialize a repo - you create a .git file that tracks changes.
 staging area is what is about to be committed, 
 
 just opening git diff with no arguements is cool
+
+git add file.txt      - this adds file to staging area
+git commit -m "Commit comment"    - to commit a staging area
+
+
+git diff - compares staging area to working directory
+git diff --staged    -- compares staging vs last commit.
+
+git branch - view branches
+git branch name       -- creates new branch with that name
+
+git checkout branchname     - to switch to branch
