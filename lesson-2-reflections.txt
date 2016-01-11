@@ -23,7 +23,7 @@ git log --graph --oneline branch branch       -- this will give a log and show w
 git checkout -b new_branch_name     -- makes new branch and checks it out
 
 merging files - check out master branch
-	git merge master branch
+***command to merge***	git merge master branch
 	   - adds a merge commit and message
 
 git show     - will show git diff between it and a parent
