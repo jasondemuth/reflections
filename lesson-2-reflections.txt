@@ -18,3 +18,14 @@ git checkout branchname     - to switch to branch
 
 
 git log --graph --oneline branch branch       -- this will give a log and show what branches are affected.
+
+
+git checkout -b new_branch_name     -- makes new branch and checks it out
+
+merging files - check out master branch
+	git merge master branch
+	   - adds a merge commit and message
+
+git show     - will show git diff between it and a parent
+
+git branch -d branch      -- this will delete branch label
