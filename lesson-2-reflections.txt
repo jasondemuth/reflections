@@ -1,3 +1,5 @@
 when you initialize a repo - you create a .git file that tracks changes.
 
 staging area is what is about to be committed, 
+
+just opening git diff with no arguements is cool
